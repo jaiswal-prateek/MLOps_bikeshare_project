@@ -137,4 +137,4 @@ test_size: 0.25
 random_state: 42
 # alogrithm parameters
 n_estimators: 150
-max_depth: 20
+max_depth: 7
